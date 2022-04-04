@@ -1,0 +1,58 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+    background-color: rgb(158, 158, 158);
+    top: 0px;
+    height: 70px;
+    vertical-align: center;
+    position: fixed;
+}
+
+.heading h2 {
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    display: inline;
+    font-size: 60px;
+    
+}
+
+.heading button{
+    background-color: rgb(158, 158, 158);
+    float: right;
+    border: 3px solid white;
+    height: 65px;
+    width: 250px;
+    font-size: 40px;
+}
+
+
+.big_img{
+    width: 70%;
+}
+
+
+#start , #status
+{
+    font-size: 25px;
+}
+.modal-body{
+    text-align: left;
+}
+h4{
+    background-color: aliceblue;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+canvas {
+    display: block;
+  }
